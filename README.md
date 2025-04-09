@@ -2,7 +2,7 @@
 
 **Junior Full-Stack Developer** | Building web apps with JavaScript & PHP   
  
-🌱 Currently diving deeper into **Next.js and Laravel Livewire **.  
+🌱 Currently diving deeper into **Next.js and Laravel **.  
 
 ---
 
@@ -17,10 +17,6 @@
 ### **Backend**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-
-### **Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
