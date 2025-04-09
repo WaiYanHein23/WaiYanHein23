@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=WaiYanHein23&show_icons=true&theme=radical&hide_border=true)](https://github.com/WaiYanHein23)  
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WaiYanHein23&layout=compact&theme=radical&hide_border=true)](https://github.com/WaiYanHein23)
 
 ---
